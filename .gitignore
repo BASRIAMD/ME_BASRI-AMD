@@ -1,4 +1,4 @@
-# Build and Release Folders
+# Build and Release BASRI_AMD.
 bin-debug/
 bin-release/
 [Oo]bj/
@@ -8,10 +8,10 @@ bin-release/
 .settings/
 
 # Executables
-*.swf
-*.air
-*.ipa
-*.apk
+*.swf.BASRI_AMD.
+*.air.BASRI_AMD.
+*.me.BASRI_AMD.
+*.apk.BASRI_AMD.
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
